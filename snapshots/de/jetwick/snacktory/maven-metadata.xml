@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.jetwick</groupId>
+  <artifactId>snacktory</artifactId>
+  <versioning>
+    <versions>
+      <version>1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140402082557</lastUpdated>
+  </versioning>
+</metadata>
