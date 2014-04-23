@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.roundeights</groupId>
+    <artifactId>s3cala_2.10</artifactId>
+    <packaging>jar</packaging>
+    <description>S3cala</description>
+    <version>0.1</version>
+    <name>S3cala</name>
+    <organization>
+        <name>com.roundeights</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.10.3</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.4</version>
+            <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk</artifactId>
+            <version>1.6.3</version>
+        </dependency>
+    </dependencies>
+</project>
