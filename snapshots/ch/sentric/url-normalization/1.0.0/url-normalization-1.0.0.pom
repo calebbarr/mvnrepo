@@ -57,12 +57,12 @@
 	</build>
     <distributionManagement>
         <snapshotRepository>
-            <id>skyshard_snapshots</id>
-            <url>https://github.com/skyshard/mvnrepo/raw/master/snapshots</url>
+            <id>calebbarr_snapshots</id>
+            <url>https://github.com/calebbarr/mvnrepo/raw/master/snapshots</url>
         </snapshotRepository>
         <repository>
-            <id>skyshard_releases</id>
-            <url>https://github.com/skyshard/mvnrepo/raw/master/releases/</url>
+            <id>calebbarr_releases</id>
+            <url>https://github.com/calebbarr/mvnrepo/raw/master/releases/</url>
         </repository>
     </distributionManagement>
 </project>
